@@ -17,3 +17,5 @@ I created a simple to-do list application that incorporates the following topics
 - Database management with TypeORM;
 - Authentication and authorization with JWT;
 - Object serialization when returning sensitive data to the client;
+
+This project is connected to the [next-todo-list](https://github.com/joao-faust/next-todo-list) repository.
